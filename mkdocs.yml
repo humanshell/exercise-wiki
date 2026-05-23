@@ -1,0 +1,28 @@
+site_name: Exercise Wiki
+theme:
+  name: material
+  palette:
+    scheme: default # options: matte, darkly
+    primary: blue
+    accent: lightblue
+  features:
+    - navigation.expand
+    - search.suggest
+
+# This tells MkDocs where your documentation lives
+docs_dir: .
+
+# The Navigation structure is the backbone of your website's sidebar
+nav:
+  - Index: index.md
+  - Concepts:
+      - Dynamic Flexibility: concepts/dynamic-flexibility.md
+      - Static Stretching: concepts/static-stretching.md
+
+# This enables everything you need for a professional look
+plugins:
+  - search
+
+# Setup specific to your domain
+extra:
+  description: "A living knowledge base for low-impact fitness and recovery."
