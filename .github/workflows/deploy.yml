@@ -13,6 +13,6 @@ jobs:
         with:
           python-version: '3.x'
       - name: Install dependencies
-        run: pip install mkdocs-material mkdocs-wikilinks-plugin
+        run: pip install mkdocs-material
       - name: Build and Deploy
         run: mkdocs gh-deploy --force

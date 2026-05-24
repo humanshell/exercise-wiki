@@ -32,7 +32,6 @@ nav:
 # This enables everything you need for a professional look
 plugins:
   - search
-  - wikilinks
 
 # Setup specific to your domain
 extra:
