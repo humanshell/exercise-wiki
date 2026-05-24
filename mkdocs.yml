@@ -10,7 +10,7 @@ theme:
     - search.suggest
 
 # This tells MkDocs where your documentation lives
-docs_dir: .
+docs_dir: docs
 
 # The Navigation structure is the backbone of your website's sidebar
 nav:
