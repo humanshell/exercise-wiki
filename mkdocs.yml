@@ -14,8 +14,20 @@ docs_dir: docs
 nav:
   - Index: index.md
   - Concepts:
-      - Dynamic Flexibility: concepts/dynamic-flexibility.md
+      - Cardiac Rehabilitation Phases: concepts/cardiac-rehabilitation-phases.md
+      - Aerobic Exercise Prescription: concepts/aerobic-exercise-prescription.md
+      - Exercise Volume for Secondary Prevention: concepts/exercise-volume-secondary-prevention.md
+      - Low-Impact Cardio Modalities: concepts/low-impact-cardio-modalities.md
+      - Resistance Training Entry Timeline: concepts/resistance-training-entry-timeline.md
+      - Valsalva Maneuver: concepts/valsalva-maneuver.md
+      - Yoga for Cardiac Recovery: concepts/yoga-for-cardiac-recovery.md
       - Static Stretching: concepts/static-stretching.md
+      - Dynamic Flexibility: concepts/dynamic-flexibility.md
+  - Entities:
+      - Rowing: entities/rowing.md
+      - Recumbent Cycling: entities/recumbent-cycling.md
+      - Yoga: entities/yoga.md
+      - Tai Chi: entities/tai-chi.md
 
 # This enables everything you need for a professional look
 plugins:

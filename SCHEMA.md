@@ -28,12 +28,30 @@ Low impact strength training for foundational health; integrating yoga, speciali
   ---
   ```
 
-# Note on Frontmatter: The `title`, `type`, and `tags` are mandatory. Confidence and Contradictions fields improve content quality control.
-
 ## Tag Taxonomy
-\[Define 10-20 top-level tags for the exercise domain here. Suggested high-level tags include: `muscle-group`, `exercise-type`, `training-style`, `physiology`, `injury-risk`, `equipment`.]
 
-Rule: every tag on a page must appear in this taxonomy. If a new tag is needed, add it to this section first, then use it. This prevents tag sprawl.
+The following tags form the controlled vocabulary for this wiki. Every tag used on any page must appear in this list. To add a new tag, edit this section first, then use it. This prevents tag sprawl.
+
+### Domain Tags
+- `muscle-group` — target muscle (e.g., quadriceps, hamstrings, chest, back, core, shoulders)
+- `exercise-type` — category of movement (e.g., aerobic, resistance, flexibility, balance, neuromotor)
+- `training-style` — approach or philosophy (e.g., low-impact, high-intensity, functional, progressive-overload, circuit)
+- `physiology` — biological system involved (e.g., cardiovascular, respiratory, metabolic, hemodynamic, autonomic)
+- `injury-risk` — risk factor or mechanism (e.g., joint-stress, strain, overuse, fall-risk, cardiac-event)
+- `equipment` — tools or modality (e.g., bodyweight, resistance-bands, dumbbells, machines, aquatic)
+- `modalities` — specific activity types (e.g., yoga, tai-chi, rowing, cycling, swimming, walking, pilates)
+
+### Clinical Tags
+- `cardiac-phase` — CR phase (e.g., phase-1, phase-2, phase-3, phase-4)
+- `recovery-stage` — stage of healing (e.g., acute, subacute, maintenance)
+- `assessment-metric` — measurement tool (e.g., RPE, HRR, METs, VO2max, Borg-scale, Karvonen-formula)
+- `safety-contraindication` — explicit caution or contraindication (e.g., sternal-precaution, valsava-caution, exertional-hypotension)
+
+### Population Tags
+- `age-consideration` — age-specific guidance (e.g., over-50, geriatric-considerations)
+- `goal` — intended outcome (e.g., secondary-prevention, strength, flexibility, endurance, body-composition)
+
+**Rule:** every tag on a page must appear in this taxonomy. If a new tag is needed, add it to this section first, then use it. This prevents tag sprawl.
 
 ## Page Thresholds
 - **Create a page** when an entity/concept appears in 2+ sources OR is central to one source.
@@ -67,5 +85,5 @@ Side-by-side analyses. Include:
 When new information conflicts with existing content:
 1. Check the dates — newer sources generally supersede older ones.
 2. If genuinely contradictory, note both positions with dates, links, and sources.
-3. Mark the contradiction in frontmatter: `contractions: [page-name]`.
+3. Mark the contradiction in frontmatter: `contradictions: [page-name]`.
 4. Flag for user review by setting `contested: true` or `confidence: low`.
