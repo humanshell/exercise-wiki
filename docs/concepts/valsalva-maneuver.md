@@ -49,11 +49,10 @@ This applies to all exercises — even light resistance band work and bodyweight
 
 - **Static stretching:** Holding a stretch while also performing Valsalva multiplies the blood pressure spike — never combine breath-holding with passive stretching
 - **Resistance training:** Every repetition should have an exhale-on-effort pattern; never hold breath at the top of a lift
-- **Yoga (contraindicated techniques):** Kapalbhati ( Skull-Shining Breath ) and Bhastrika ( Bellows Breath ) involve forced rapid breathing that mimics Valsalva effects — see [yoga-for-cardiac-recovery](concepts/yoga-for-cardiac-recovery)
+- **Yoga (contraindicated techniques):** Kapalbhati ( Skull-Shining Breath ) and Bhastrika ( Bellows Breath ) involve forced rapid breathing that mimics Valsalva effects — see [yoga-for-cardiac-recovery](../yoga-for-cardiac-recovery)
 - **Tai Chi:** Slow, continuous breathing is inherently protective — natural exhalation during arm movements prevents Valsalva accumulation
 
 ## Related Concepts
-- [yoga-for-cardiac-recovery](concepts/yoga-for-cardiac-recovery) - Specifically contraindicated pranayama (breathwork) practices that mimic Valsalva
-- [valsalva-maneuver](concepts/valsalva-maneuver) - (this page is self-referential for cross-linking)
-- [resistance-training-entry-timeline](concepts/resistance-training-entry-timeline) - Sternal precautions that coincide with Valsalva risk awareness education
-- [static-stretching](concepts/static-stretching) - Safety note: never hold breath during passive stretching
+- [yoga-for-cardiac-recovery](../yoga-for-cardiac-recovery) - Specifically contraindicated pranayama (breathwork) practices that mimic Valsalva
+- [resistance-training-entry-timeline](../resistance-training-entry-timeline) - Sternal precautions that coincide with Valsalva risk awareness education
+- [static-stretching](../static-stretching) - Safety note: never hold breath during passive stretching

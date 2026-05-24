@@ -70,3 +70,25 @@
 ## 2026-05-23 create | Entity: Tai Chi
 - docs/entities/tai-chi.md
 - Sources: Clinical_Review, cardiac-recovery-deep-research, Low_Impact_Fitness
+## 2026-05-24 fix | All cross-links repaired across 13 files
+- Converted concept page links from `concepts/other` → `../other` (was double-nested)
+- Converted entity page links from `entities/other` → `../concepts/other` or `../entities/other`
+- Removed self-referential link from valsalva-maneuver.md
+## 2026-05-24 create | Risk Stratification (concept) + .gitignore
+- docs/concepts/risk-stratification.md - AACVPR risk classification algorithm
+- .gitignore created (site/, __pycache__, etc.)
+## 2026-05-24 create | Comparison: Tai Chi vs Yoga for Cardiac Recovery
+- docs/comparisons/tai-chi-vs-yoga.md
+- Head-to-head analysis across 12 dimensions with clinical prescription guidance
+## 2026-05-24 ingest | Synthesized Resistance Training Guidelines & Hemodynamics
+- Added prescription guidelines table and hemodynamic safety section to resistance-training-entry-timeline.md
+- Key finding: high-rep sets produce higher BP spikes than heavy-load sets — fatigue management > load management
+## 2026-05-24 create | Comparison: Rowing vs Recumbent Cycling
+- docs/comparisons/rowing-vs-recumbent-cycling.md
+- 12-dimension comparison with Phase-based sequencing strategy
+## 2026-05-24 create | Query: Beta-Blockers and Exercise Prescription
+- docs/queries/beta-blockers-exercise-prescription.md
+- Full clinical guide: HR targets, RPE reliance, modality preferences, safety monitoring
+## 2026-05-24 create | Entity: Swimming
+- docs/entities/swimming.md
+- Water walking (Phase II) through lap swimming (Phase IV); stroke considerations, hydrostatic benefits

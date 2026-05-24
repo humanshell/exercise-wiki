@@ -61,7 +61,7 @@ Higher exercise volumes are directly correlated with greater improvements in car
 The 2024 AHA/ACC/AACVPR framework expanded the weight management component to include body composition (lean muscle mass, fat distribution), recognizing that resistance training volume contributes to energy expenditure and metabolic health beyond aerobic exercise alone. ^[raw/AHA_ACC_AACVPR_2024_Core_Components.md]
 
 ## Related Concepts
-- [aerobic-exercise-prescription](concepts/aerobic-exercise-prescription) - How to calculate METs, HRR, and set session-level intensity
-- [cardiac-rehabilitation-phases](concepts/cardiac-rehabilitation-phases) - Phase III–IV patients are best positioned to accumulate higher volumes; Phase II is constrained by telemetry needs
-- [low-impact-cardio-modalities](concepts/low-impact-cardio-modalities) - Modalities available to safely accumulate volume across multiple days per week
-- [resistance-training-entry-timeline](concepts/resistance-training-entry-timeline) - Adding resistance training volume accelerates total weekly energy expenditure and supports body composition goals
+- [aerobic-exercise-prescription](../aerobic-exercise-prescription) - How to calculate METs, HRR, and set session-level intensity
+- [cardiac-rehabilitation-phases](../cardiac-rehabilitation-phases) - Phase III–IV patients are best positioned to accumulate higher volumes; Phase II is constrained by telemetry needs
+- [low-impact-cardio-modalities](../low-impact-cardio-modalities) - Modalities available to safely accumulate volume across multiple days per week
+- [resistance-training-entry-timeline](../resistance-training-entry-timeline) - Adding resistance training volume accelerates total weekly energy expenditure and supports body composition goals

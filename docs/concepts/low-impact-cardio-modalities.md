@@ -62,9 +62,9 @@ Resistance bands provide progressive linear tension without the joint-compressiv
 ^[raw/Low_Impact_and_Functional_Fitness_Over_50.md]
 
 ## Related Concepts
-- [cardiac-rehabilitation-phases](concepts/cardiac-rehabilitation-phases) - These modalities appear across Phase II–IV as progression occurs
-- [aerobic-exercise-prescription](concepts/aerobic-exercise-prescription) - How to set intensity targets (HRR, RPE) for any of these modalities
-- [exercise-volume-secondary-prevention](concepts/exercise-volume-secondary-prevention) - MET-minute targets that determine how much of this activity is needed weekly
-- [rowing](concepts/rowing) - Dedicated entity page for the rowing exercise/equipment
-- [recumbent-cycling](concepts/recumbent-cycling) - Dedicated entity page for the recumbent cycling modality
-- [resistance-training-entry-timeline](concepts/resistance-training-entry-timeline) - Bands and light weights as the resistance training entry point
+- [cardiac-rehabilitation-phases](../cardiac-rehabilitation-phases) - These modalities appear across Phase II–IV as progression occurs
+- [aerobic-exercise-prescription](../aerobic-exercise-prescription) - How to set intensity targets (HRR, RPE) for any of these modalities
+- [exercise-volume-secondary-prevention](../exercise-volume-secondary-prevention) - MET-minute targets that determine how much of this activity is needed weekly
+- [rowing](../entities/rowing) - Dedicated entity page for the rowing exercise/equipment
+- [recumbent-cycling](../entities/recumbent-cycling) - Dedicated entity page for the recumbent cycling modality
+- [resistance-training-entry-timeline](../resistance-training-entry-timeline) - Bands and light weights as the resistance training entry point

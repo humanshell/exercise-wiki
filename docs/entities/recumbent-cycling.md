@@ -51,7 +51,7 @@ Recumbent cycling is specifically preferred over treadmill walking when:
 ^[raw/cardiac-recovery-fitness-protocol-deep-research.md]
 
 ## Related Concepts
-- [low-impact-cardio-modalities](entities/low-impact-cardio-modalities) - Cycling as one of five core low-impact modalities
-- [aerobic-exercise-prescription](entities/aerobic-exercise-prescription) - RPE-based progression framework for cycling
-- [cardiac-rehabilitation-phases](entities/cardiac-rehabilitation-phases) - Cycling as a Phase II primary modality
-- [exercise-volume-secondary-prevention](entities/exercise-volume-secondary-prevention) - Cycling as a volume accumulator for secondary prevention targets
+- [low-impact-cardio-modalities](../concepts/low-impact-cardio-modalities) - Cycling as one of five core low-impact modalities
+- [aerobic-exercise-prescription](../concepts/aerobic-exercise-prescription) - RPE-based progression framework for cycling
+- [cardiac-rehabilitation-phases](../concepts/cardiac-rehabilitation-phases) - Cycling as a Phase II primary modality
+- [exercise-volume-secondary-prevention](../concepts/exercise-volume-secondary-prevention) - Cycling as a volume accumulator for secondary prevention targets

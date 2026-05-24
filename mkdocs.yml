@@ -37,11 +37,18 @@ nav:
       - Yoga for Cardiac Recovery: concepts/yoga-for-cardiac-recovery.md
       - Static Stretching: concepts/static-stretching.md
       - Dynamic Flexibility: concepts/dynamic-flexibility.md
+      - Risk Stratification: concepts/risk-stratification.md
+  - Comparisons:
+      - Tai Chi vs Yoga: comparisons/tai-chi-vs-yoga.md
+      - Rowing vs Recumbent Cycling: comparisons/rowing-vs-recumbent-cycling.md
   - Entities:
       - Rowing: entities/rowing.md
       - Recumbent Cycling: entities/recumbent-cycling.md
       - Yoga: entities/yoga.md
       - Tai Chi: entities/tai-chi.md
+      - Swimming: entities/swimming.md
+  - Queries:
+      - Beta-Blockers & Exercise Rx: queries/beta-blockers-exercise-prescription.md
   - Log: log.md
 
 # This enables everything you need for a professional look

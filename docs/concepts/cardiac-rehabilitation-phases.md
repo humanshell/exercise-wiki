@@ -63,8 +63,8 @@ CR is divided into four distinct clinical phases that sequentially transition a 
 Before commencing Phase II, clinical staff must perform a comprehensive assessment beyond cardiorespiratory metrics — including cognitive function, frailty, fall risk, and standard postural balance tests (feet side-by-side, instep stance, tandem stance, single-leg stand). Home environment, current pharmacotherapy, and 12-lead ECG baseline must be documented. ^[raw/AHA_ACC_AACVPR_2024_Core_Components.md]
 
 ## Related Concepts
-- [aerobic-exercise-prescription](concepts/aerobic-exercise-prescription) - How intensity, duration, and progression are quantified across phases
-- [exercise-volume-secondary-prevention](concepts/exercise-volume-secondary-prevention) - MET-minute and energy expenditure thresholds for halting CAD progression
-- [resistance-training-entry-timeline](concepts/resistance-training-entry-timeline) - When and how to introduce strength training in each phase
-- [valsalva-maneuver](concepts/valsalva-maneuver) - Critical safety topic: breath-holding risks during any CR exercise
-- [risk-stratification](concepts/risk-stratification) - AACVPR algorithm for classifying patient risk and telemetry requirements
+- [aerobic-exercise-prescription](../aerobic-exercise-prescription) - How intensity, duration, and progression are quantified across phases
+- [exercise-volume-secondary-prevention](../exercise-volume-secondary-prevention) - MET-minute and energy expenditure thresholds for halting CAD progression
+- [resistance-training-entry-timeline](../resistance-training-entry-timeline) - When and how to introduce strength training in each phase
+- [valsalva-maneuver](../valsalva-maneuver) - Critical safety topic: breath-holding risks during any CR exercise
+- [risk-stratification](../risk-stratification) - AACVPR algorithm for classifying patient risk and telemetry requirements

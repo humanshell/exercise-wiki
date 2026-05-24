@@ -4,7 +4,7 @@ created: 2026-05-23
 updated: 2026-05-23
 type: concept
 tags: [cardiac-phase, recovery-stage, safety-contraindication]
-sources: [raw/Resistance_Training_Entry_Timelines_and_Precautions.md, raw/AHA_ACC_AACVPR_2024_Core_Components.md, raw/cardiac-recovery-fitness-protocol-deep-research.md]
+sources: [raw/Resistance_Training_Entry_Timelines_and_Precautions.md, raw/AHA_ACC_AACVPR_2024_Core_Components.md, raw/cardiac-recovery-fitness-protocol-deep-research.md, raw/Resistance_Training_Guidelines_and_Hemodynamics.md]
 confidence: high
 ---
 
@@ -50,7 +50,7 @@ For patients with newly implanted pacemaker or implantable cardioverter-defibril
 - **Lifting (affected side):** No load exceeding 10 lbs for 4 weeks
 
 ## Valsalva Prevention in Resistance Training
-Regardless of timeline, every session must include explicit breathing instruction. Patients must exhale during the concentric phase — never hold breath at the top of a lift. See [valsalva-maneuver](concepts/valsalva-maneuver) for the four-phase hemodynamic explanation and why this is non-negotiable for cardiac patients. ^[raw/Resistance_Training_Entry_Timelines_and_Precautions.md]
+Regardless of timeline, every session must include explicit breathing instruction. Patients must exhale during the concentric phase — never hold breath at the top of a lift. See [valsalva-maneuver](../valsalva-maneuver) for the four-phase hemodynamic explanation and why this is non-negotiable for cardiac patients. ^[raw/Resistance_Training_Entry_Timelines_and_Precautions.md]
 
 ## Progression After Clearance
 Once cleared for traditional RT (per diagnosis-specific timeline above):
@@ -61,8 +61,38 @@ Once cleared for traditional RT (per diagnosis-specific timeline above):
 
 ^[raw/cardiac-recovery-fitness-protocol-deep-research.md]
 
+## Resistance Training Prescription Guidelines
+
+The table below compares the key guidelines for resistance exercise prescription in cardiac rehabilitation settings against general population standards. ^[raw/Resistance_Training_Guidelines_and_Hemodynamics.md]
+
+| Guideline Body | Frequency | Intensity Targets | Volume & Structure | Equipment |
+| :--- | :--- | :--- | :--- | :--- |
+| **ACSM Outpatient CR** | 2–3 non-consecutive days/wk | 40–60% of 1-RM; RPE 11–13 | 1–3 sets of 10–15 reps; 8–10 exercises | Major muscle groups; safe equipment |
+| **AHA Cardiac Patients** | 2–3 non-consecutive days/wk | Moderate, comfortable intensity | 1 set of 10–15 reps; 8–10 exercises | Isolated and compound movements |
+| **ACSM Strength & Hypertrophy** (general) | 2–3 non-consecutive days/wk | 60–80% of 1-RM; slow-to-moderate velocity | 1–3 sets of 8–12 reps; 1–3 min rest | Single and multi-joint; free weights and machines |
+| **ACSM Muscular Endurance** (general) | 2–3 non-consecutive days/wk | Low-to-moderate intensity | Multiple sets of 10–15 reps | Varied modalities |
+
+## Hemodynamic Safety: High Repetitions vs. High Loads
+
+A critical safety consideration in cardiac resistance training is the acute rise in systemic blood pressure and heart rate — quantified as the rate-pressure product (RPP = HR × SBP), which directly reflects myocardial oxygen demand. ^[raw/Resistance_Training_Guidelines_and_Hemodynamics.md]
+
+A comparative study analyzed the hemodynamic impact of two resistance training models:
+
+1. **Low-Intensity, High-Repetition:** 4 sets of 17 repetitions at 40% of 1-RM
+2. **High-Intensity, Low-Repetition:** 4 sets of 10 repetitions at 70% of 1-RM
+
+**Key finding — counterintuitive but clinically critical:** While blood pressure rose with exercise intensity in both models, **significantly higher peak blood pressures were recorded during the high-repetition sets (at 40% 1-RM) compared to the heavy-load sets (at 70% 1-RM).** ^[raw/Resistance_Training_Guidelines_and_Hemodynamics.md]
+
+**Clinical translation:** Performing high repetitions to muscular failure causes cumulative local muscle fatigue and prolonged contractions that compress intramuscular blood vessels, resulting in an involuntary breath-hold and a dramatic surge in systemic vascular resistance. Therefore, cardiac rehabilitation patients should:
+- Perform **brief, non-fatiguing sets** (e.g., 5–10 repetitions)
+- Use **light-to-moderate loads** (≤30–40% of 1-RM)
+- **Strictly avoid training to muscular failure**
+- Monitor RPE closely — if RPE exceeds 13–14 during a set, the load or rep count is too high
+
+This finding reinforces the broader principle that in CR, **load management is less important than fatigue management** — the hemodynamic danger comes from pushing to failure, not from the absolute weight on the bar.
+
 ## Related Concepts
-- [valsalva-maneuver](concepts/valsalva-maneuver) - Mandatory breathing protocol for all RT sessions in CR
-- [cardiac-rehabilitation-phases](concepts/cardiac-rehabilitation-phases) - Phase III is where full RT is typically introduced; Phase II focuses on light bands/weights
-- [low-impact-cardio-modalities](concepts/low-impact-cardio-modalities) - Resistance bands are the first RT modality introduced in Phase II
-- [aerobic-exercise-prescription](concepts/aerobic-exercise-prescription) - RT progression is informed by the same RPE and hemodynamic monitoring framework
+- [valsalva-maneuver](../valsalva-maneuver) - Mandatory breathing protocol for all RT sessions in CR
+- [cardiac-rehabilitation-phases](../cardiac-rehabilitation-phases) - Phase III is where full RT is typically introduced; Phase II focuses on light bands/weights
+- [low-impact-cardio-modalities](../low-impact-cardio-modalities) - Resistance bands are the first RT modality introduced in Phase II
+- [aerobic-exercise-prescription](../aerobic-exercise-prescription) - RT progression is informed by the same RPE and hemodynamic monitoring framework

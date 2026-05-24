@@ -41,7 +41,7 @@ Rowing provides an efficient cardiorespiratory challenge because the large muscl
 Beta-blockers cause chronotropic blunting -- the heart rate response to exercise is attenuated. Target heart rate formulas (Karvonen) still work if HR_max is measured via GXT (not estimated from age-formula). RPE becomes the more reliable intensity guide than heart rate alone.
 
 ## Related Concepts
-- [low-impact-cardio-modalities](entities/low-impact-cardio-modalities) - Rowing as one of five core low-impact modalities
-- [aerobic-exercise-prescription](entities/aerobic-exercise-prescription) - How to set RPE targets and progress rowing sessions
-- [exercise-volume-secondary-prevention](entities/exercise-volume-secondary-prevention) - Rowing as a high MET-minute contributor to weekly volume targets
-- [resistance-training-entry-timeline](entities/resistance-training-entry-timeline) - Rowing is primarily aerobic but has resistance elements
+- [low-impact-cardio-modalities](../concepts/low-impact-cardio-modalities) - Rowing as one of five core low-impact modalities
+- [aerobic-exercise-prescription](../concepts/aerobic-exercise-prescription) - How to set RPE targets and progress rowing sessions
+- [exercise-volume-secondary-prevention](../concepts/exercise-volume-secondary-prevention) - Rowing as a high MET-minute contributor to weekly volume targets
+- [resistance-training-entry-timeline](../concepts/resistance-training-entry-timeline) - Rowing is primarily aerobic but has resistance elements
