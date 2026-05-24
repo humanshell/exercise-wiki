@@ -54,7 +54,7 @@ Kapalbhati, Bhastrika, any Kumbhaka (breath retention).
 | **Cat-Cow** (Marjaryasana-Bitilasana) | Gentle movement | Maintains thoracic mobility; synchronized breath |
 
 ## Related Concepts
-- [[yoga-for-cardiac-recovery]] - Full concept page on safety, contraindications, and alternatives
-- [[valsalva-maneuver]] - Mechanism shared by Kapalbhati and Bhastrika; required safety knowledge for any yoga teacher working with CR patients
-- [[tai-chi]] - Alternative mind-body modality with lower risk profile and similar autonomic benefits
-- [[cardiac-rehabilitation-phases]] - Yoga is Phase III-IV only; never in Phase I-II acute
+- [yoga-for-cardiac-recovery](entities/yoga-for-cardiac-recovery) - Full concept page on safety, contraindications, and alternatives
+- [valsalva-maneuver](entities/valsalva-maneuver) - Mechanism shared by Kapalbhati and Bhastrika; required safety knowledge for any yoga teacher working with CR patients
+- [tai-chi](entities/tai-chi) - Alternative mind-body modality with lower risk profile and similar autonomic benefits
+- [cardiac-rehabilitation-phases](entities/cardiac-rehabilitation-phases) - Yoga is Phase III-IV only; never in Phase I-II acute

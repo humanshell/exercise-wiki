@@ -58,8 +58,8 @@ Recovery programs should focus on gentle, supported styles — Restorative Yoga,
 Yoga is specifically listed as a recommended Phase IV activity in the CR framework — evidence that appropriately modified yoga is not only safe but beneficial for long-term cardiac health when contraindicated postures are systematically avoided. ^[raw/cardiac-recovery-fitness-protocol-deep-research.md]
 
 ## Related Concepts
-- [[valsalva-maneuver]] - Kapalbhati and Bhastrika are functionally equivalent to Valsalva; understanding the shared mechanism clarifies why they are prohibited
-- [[cardiac-rehabilitation-phases]] - Yoga as a Phase III–IV maintenance modality; contraindicated in Phases I–II acute setting
-- [[low-impact-cardio-modalities]] - Yoga is part of the broader low-impact movement medicine toolkit; compare with Tai Chi, swimming, walking
-- [[dynamic-flexibility]] - Yoga shares the flexibility domain with dynamic warm-up and static stretching; contrast safety profiles
-- [[tai-chi]] - Another mind-body modality used in Phase IV; compare autonomic benefits and risk profiles
+- [valsalva-maneuver](concepts/valsalva-maneuver) - Kapalbhati and Bhastrika are functionally equivalent to Valsalva; understanding the shared mechanism clarifies why they are prohibited
+- [cardiac-rehabilitation-phases](concepts/cardiac-rehabilitation-phases) - Yoga as a Phase III–IV maintenance modality; contraindicated in Phases I–II acute setting
+- [low-impact-cardio-modalities](concepts/low-impact-cardio-modalities) - Yoga is part of the broader low-impact movement medicine toolkit; compare with Tai Chi, swimming, walking
+- [dynamic-flexibility](concepts/dynamic-flexibility) - Yoga shares the flexibility domain with dynamic warm-up and static stretching; contrast safety profiles
+- [tai-chi](concepts/tai-chi) - Another mind-body modality used in Phase IV; compare autonomic benefits and risk profiles

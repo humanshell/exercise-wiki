@@ -45,7 +45,7 @@ Tai Chi (Taijiquan) is a Chinese mind-body practice characterized by slow, conti
 | Social/community aspect | Strong (group practice common) | Moderate (class-based) |
 
 ## Related Concepts
-- [[cardiac-rehabilitation-phases]] - Phase IV maintenance: Tai Chi is explicitly listed as a recommended long-term activity
-- [[yoga]] - Alternative mind-body modality; contrast risk profiles and evidence base
-- [[low-impact-cardio-modalities]] - Tai Chi as one of the gentler modalities in the toolkit; slower progression but safer long-term
-- [[valsalva-maneuver]] - Tai Chi's continuous natural breathing eliminates Valsalva risk; important contrast with yoga breathwork and heavy RT
+- [cardiac-rehabilitation-phases](entities/cardiac-rehabilitation-phases) - Phase IV maintenance: Tai Chi is explicitly listed as a recommended long-term activity
+- [yoga](entities/yoga) - Alternative mind-body modality; contrast risk profiles and evidence base
+- [low-impact-cardio-modalities](entities/low-impact-cardio-modalities) - Tai Chi as one of the gentler modalities in the toolkit; slower progression but safer long-term
+- [valsalva-maneuver](entities/valsalva-maneuver) - Tai Chi's continuous natural breathing eliminates Valsalva risk; important contrast with yoga breathwork and heavy RT

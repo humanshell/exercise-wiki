@@ -50,7 +50,7 @@ For patients with newly implanted pacemaker or implantable cardioverter-defibril
 - **Lifting (affected side):** No load exceeding 10 lbs for 4 weeks
 
 ## Valsalva Prevention in Resistance Training
-Regardless of timeline, every session must include explicit breathing instruction. Patients must exhale during the concentric phase — never hold breath at the top of a lift. See [[valsalva-maneuver]] for the four-phase hemodynamic explanation and why this is non-negotiable for cardiac patients. ^[raw/Resistance_Training_Entry_Timelines_and_Precautions.md]
+Regardless of timeline, every session must include explicit breathing instruction. Patients must exhale during the concentric phase — never hold breath at the top of a lift. See [valsalva-maneuver](concepts/valsalva-maneuver) for the four-phase hemodynamic explanation and why this is non-negotiable for cardiac patients. ^[raw/Resistance_Training_Entry_Timelines_and_Precautions.md]
 
 ## Progression After Clearance
 Once cleared for traditional RT (per diagnosis-specific timeline above):
@@ -62,7 +62,7 @@ Once cleared for traditional RT (per diagnosis-specific timeline above):
 ^[raw/cardiac-recovery-fitness-protocol-deep-research.md]
 
 ## Related Concepts
-- [[valsalva-maneuver]] - Mandatory breathing protocol for all RT sessions in CR
-- [[cardiac-rehabilitation-phases]] - Phase III is where full RT is typically introduced; Phase II focuses on light bands/weights
-- [[low-impact-cardio-modalities]] - Resistance bands are the first RT modality introduced in Phase II
-- [[aerobic-exercise-prescription]] - RT progression is informed by the same RPE and hemodynamic monitoring framework
+- [valsalva-maneuver](concepts/valsalva-maneuver) - Mandatory breathing protocol for all RT sessions in CR
+- [cardiac-rehabilitation-phases](concepts/cardiac-rehabilitation-phases) - Phase III is where full RT is typically introduced; Phase II focuses on light bands/weights
+- [low-impact-cardio-modalities](concepts/low-impact-cardio-modalities) - Resistance bands are the first RT modality introduced in Phase II
+- [aerobic-exercise-prescription](concepts/aerobic-exercise-prescription) - RT progression is informed by the same RPE and hemodynamic monitoring framework

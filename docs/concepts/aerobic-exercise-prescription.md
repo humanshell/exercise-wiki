@@ -72,8 +72,8 @@ Volume (MET-min/wk) = Frequency (days/wk) × Intensity (METs) × Time (min/day)
 Where 1 MET = 3.5 mL·kg⁻¹·min⁻¹ (resting oxygen consumption). An increase in functional capacity of just 1 mL·kg⁻¹·min⁻¹ is associated with a 10% reduction in cardiac mortality. ^[raw/Optimizing_Exercise_Volume_for_Secondary_Prevention.md]
 
 ## Related Concepts
-- [[cardiac-rehabilitation-phases]] - Prescription parameters differ by phase (Phase II telemetry-supported vs. Phase IV self-managed)
-- [[exercise-volume-secondary-prevention]] - Specific MET-minute and kcal thresholds for halting CAD and achieving plaque regression
-- [[low-impact-cardio-modalities]] - How to apply this prescription across rowing, cycling, swimming, and walking
-- [[risk-stratification]] - AACVPR risk stratification determines whether GXT is required before prescription
-- [[valsalva-maneuver]] - Breathing technique that must be maintained during all aerobic exercise to prevent hemodynamic spikes
+- [cardiac-rehabilitation-phases](concepts/cardiac-rehabilitation-phases) - Prescription parameters differ by phase (Phase II telemetry-supported vs. Phase IV self-managed)
+- [exercise-volume-secondary-prevention](concepts/exercise-volume-secondary-prevention) - Specific MET-minute and kcal thresholds for halting CAD and achieving plaque regression
+- [low-impact-cardio-modalities](concepts/low-impact-cardio-modalities) - How to apply this prescription across rowing, cycling, swimming, and walking
+- [risk-stratification](concepts/risk-stratification) - AACVPR risk stratification determines whether GXT is required before prescription
+- [valsalva-maneuver](concepts/valsalva-maneuver) - Breathing technique that must be maintained during all aerobic exercise to prevent hemodynamic spikes

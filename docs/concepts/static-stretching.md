@@ -19,9 +19,9 @@ While widely practiced, current research suggests that static stretching may hav
 For cardiac rehabilitation patients, static stretching is generally reserved for the cool-down phase rather than the warm-up, where dynamic flexibility work is preferred for nervous-system activation. ^[raw/cardiac-recovery-fitness-protocol-deep-research.md]
 
 ## Related Concepts
-- [[dynamic-flexibility]] - Active movement counterpart primarily used during warm-ups to increase intra-muscular temperature and nervous system readiness.
-- [[low-impact-cardio-modalities]] - Joint-preserving modalities that pair well with flexibility training in a complete recovery program.
-- [[valsalva-maneuver]] - Related safety topic: breath-holding during stretching can affect blood pressure and cardiac load.
+- [dynamic-flexibility](concepts/dynamic-flexibility) - Active movement counterpart primarily used during warm-ups to increase intra-muscular temperature and nervous system readiness.
+- [low-impact-cardio-modalities](concepts/low-impact-cardio-modalities) - Joint-preserving modalities that pair well with flexibility training in a complete recovery program.
+- [valsalva-maneuver](concepts/valsalva-maneuver) - Related safety topic: breath-holding during stretching can affect blood pressure and cardiac load.
 
 ## Safety Notes for Cardiac Recovery
 - Avoid holding stretches beyond 60 seconds in early Phase II recovery — prolonged passive stretch combined with Valsalva can spike blood pressure.

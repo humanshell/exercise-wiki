@@ -28,10 +28,10 @@ In the Phase II–III outpatient setting, dynamic warm-up typically precedes aer
 Duration: 5–10 minutes, building from low to moderate intensity.
 
 ## Related Concepts
-- [[static-stretching]] - The counterpart to dynamic movements often used in cool-downs; holding positions for 15–60 seconds to lengthen muscle-tendon tissue.
-- [[cardiac-rehabilitation-phases]] - The clinical framework (Phase I–IV) that dictates when and how dynamic flexibility is incorporated.
-- [[low-impact-cardio-modalities]] - Rowing, cycling, and swimming pair with dynamic warm-up to create a complete low-impact session.
-- [[valsalva-maneuver]] - Safety note: dynamic movements should never be performed with breath-holding; steady breathing maintains cardiac stability.
+- [static-stretching](concepts/static-stretching) - The counterpart to dynamic movements often used in cool-downs; holding positions for 15–60 seconds to lengthen muscle-tendon tissue.
+- [cardiac-rehabilitation-phases](concepts/cardiac-rehabilitation-phases) - The clinical framework (Phase I–IV) that dictates when and how dynamic flexibility is incorporated.
+- [low-impact-cardio-modalities](concepts/low-impact-cardio-modalities) - Rowing, cycling, and swimming pair with dynamic warm-up to create a complete low-impact session.
+- [valsalva-maneuver](concepts/valsalva-maneuver) - Safety note: dynamic movements should never be performed with breath-holding; steady breathing maintains cardiac stability.
 
 ## Safety Notes for Cardiac Recovery
 - Keep tempo controlled — ballistic or jerky movements can spike systolic blood pressure.
