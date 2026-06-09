@@ -3,7 +3,7 @@
 > **A clinical knowledge base for cardiac rehabilitation and low-impact fitness.**
 > Designed for post-MI recovery, heart-healthy exercise programming, and sustainable strength for the over-50 male.
 
-> **Last updated: 2026-06-09 — 21 pages** across 10 concepts, 6 entities, 2 comparisons, 1 query, and source archive
+> **Last updated: 2026-06-09 — 22 pages** across 11 concepts, 6 entities, 2 comparisons, 1 query, and source archive
 
 ---
 
@@ -69,6 +69,7 @@ Phase I (Inpatient) ──→ Phase II (Early Outpatient) ──→ Phase III (I
 | [Yoga for Cardiac Recovery](concepts/yoga-for-cardiac-recovery) | 5 contraindicated posture categories, 5 heart-safe alternatives, breathwork warnings |
 | [Static Stretching](concepts/static-stretching) | 15–60s holds for cool-down; never combined with Valsalva |
 | [Dynamic Flexibility](concepts/dynamic-flexibility) | Active ROM through full joint path; preferred warm-up protocol |
+| [Mobility Positions](concepts/mobility-positions) | End-range joint positions for active control, capsule health, and positional breathing |
 | [Risk Stratification](concepts/risk-stratification) | AACVPR low/moderate/high criteria — determines telemetry, GXT, and supervision needs |
 
 ### ⌂ Entities — the specific tools

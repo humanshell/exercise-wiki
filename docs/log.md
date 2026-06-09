@@ -99,3 +99,12 @@
 - Sources: Resistance_Training_Guidelines_and_Hemodynamics, Resistance_Training_Entry_Timelines,
   AHA/ACC/AACVPR 2024 Core Components, cardiac-recovery-deep-research
 - Updated: SCHEMA.md (tag taxonomy), mkdocs.yml (nav), index.md (page count 20 → 21, entities 5 → 6)
+## 2026-06-09 create | Concept: Mobility Positions
+- docs/concepts/mobility-positions.md
+- Active joint control through end-range positions: deep squat hold, 90-90 hip rotation,
+  half-kneeling hip flexor, thoracic extension, thread-the-needle, cat-cow, 90-90 breathing
+- Distinction from static stretching and dynamic flexibility defined in context of over-50
+  cardiac recovery; Phase II–IV integration table; safety considerations for cardiac patients
+- Sources: Low_Impact_Functional_Fitness_Over_50, cardiac-recovery-deep-research
+- Updated: SCHEMA.md (mobility added to exercise-type tags), mkdocs.yml (nav), index.md
+  (page count 21 → 22, concepts 10 → 11)

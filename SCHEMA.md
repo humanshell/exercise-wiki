@@ -34,7 +34,7 @@ The following tags form the controlled vocabulary for this wiki. Every tag used 
 
 ### Domain Tags
 - `muscle-group` — target muscle (e.g., quadriceps, hamstrings, chest, back, core, shoulders)
-- `exercise-type` — category of movement (e.g., aerobic, resistance, flexibility, balance, neuromotor)
+- `exercise-type` — category of movement (e.g., aerobic, resistance, flexibility, balance, neuromotor, mobility)
 - `training-style` — approach or philosophy (e.g., low-impact, high-intensity, functional, progressive-overload, circuit)
 - `physiology` — biological system involved (e.g., cardiovascular, respiratory, metabolic, hemodynamic, autonomic)
 - `injury-risk` — risk factor or mechanism (e.g., joint-stress, strain, overuse, fall-risk, cardiac-event)
