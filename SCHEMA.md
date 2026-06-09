@@ -39,7 +39,7 @@ The following tags form the controlled vocabulary for this wiki. Every tag used 
 - `physiology` — biological system involved (e.g., cardiovascular, respiratory, metabolic, hemodynamic, autonomic)
 - `injury-risk` — risk factor or mechanism (e.g., joint-stress, strain, overuse, fall-risk, cardiac-event)
 - `equipment` — tools or modality (e.g., bodyweight, resistance-bands, dumbbells, machines, aquatic)
-- `modalities` — specific activity types (e.g., yoga, tai-chi, rowing, cycling, swimming, walking, pilates)
+- `modalities` — specific activity types (e.g., yoga, tai-chi, rowing, cycling, swimming, walking, pilates, calisthenics)
 
 ### Clinical Tags
 - `cardiac-phase` — CR phase (e.g., phase-1, phase-2, phase-3, phase-4)

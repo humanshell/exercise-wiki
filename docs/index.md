@@ -3,7 +3,7 @@
 > **A clinical knowledge base for cardiac rehabilitation and low-impact fitness.**
 > Designed for post-MI recovery, heart-healthy exercise programming, and sustainable strength for the over-50 male.
 
-**Last updated: 2026-05-24 — 20 pages** across 10 concepts, 5 entities, 2 comparisons, 1 query, and source archive
+> **Last updated: 2026-06-09 — 21 pages** across 10 concepts, 6 entities, 2 comparisons, 1 query, and source archive
 
 ---
 
@@ -80,6 +80,7 @@ Phase I (Inpatient) ──→ Phase II (Early Outpatient) ──→ Phase III (I
 | [Yoga](entities/yoga) | Mind-body | Phase III–IV only; contraindicated postures listed |
 | [Tai Chi](entities/tai-chi) | Mind-body | Phase IV; strong fall prevention, zero Valsalva risk |
 | [Swimming](entities/swimming) | Aquatic | Hydrostatic venous return; Phase II water walking → IV laps |
+| [Calisthenics](entities/calisthenics) | Bodyweight RT | Leverage-progressed resistance; Phase II → IV |
 
 ### ⌂ Comparisons — side-by-side decisions
 

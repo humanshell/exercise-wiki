@@ -92,3 +92,10 @@
 ## 2026-05-24 create | Entity: Swimming
 - docs/entities/swimming.md
 - Water walking (Phase II) through lap swimming (Phase IV); stroke considerations, hydrostatic benefits
+## 2026-06-09 create | Entity: Calisthenics
+- docs/entities/calisthenics.md
+- Bodyweight resistance training for cardiac rehab: leverage-based progression, Phase II–IV dosage,
+  hemodynamic safety, sternal precaution modifications, over-50 functional benefits
+- Sources: Resistance_Training_Guidelines_and_Hemodynamics, Resistance_Training_Entry_Timelines,
+  AHA/ACC/AACVPR 2024 Core Components, cardiac-recovery-deep-research
+- Updated: SCHEMA.md (tag taxonomy), mkdocs.yml (nav), index.md (page count 20 → 21, entities 5 → 6)

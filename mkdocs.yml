@@ -47,6 +47,7 @@ nav:
       - Yoga: entities/yoga.md
       - Tai Chi: entities/tai-chi.md
       - Swimming: entities/swimming.md
+      - Calisthenics: entities/calisthenics.md
   - Queries:
       - Beta-Blockers & Exercise Rx: queries/beta-blockers-exercise-prescription.md
   - Log: log.md
