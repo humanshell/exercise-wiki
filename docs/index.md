@@ -3,7 +3,7 @@
 > **A clinical knowledge base for cardiac rehabilitation and low-impact fitness.**
 > Designed for post-MI recovery, heart-healthy exercise programming, and sustainable strength for the over-50 male.
 
-> **Last updated: 2026-06-25 — 29 pages** across 11 concepts, 13 entities, 2 comparisons, 1 query, and source archive
+> **Last updated: 2026-06-25 — 30 pages** across 12 concepts, 13 entities, 2 comparisons, 1 query, and source archive
 
 ---
 
@@ -70,6 +70,7 @@ Phase I (Inpatient) ──→ Phase II (Early Outpatient) ──→ Phase III (I
 | [Static Stretching](concepts/static-stretching) | 15–60s holds for cool-down; never combined with Valsalva |
 | [Dynamic Flexibility](concepts/dynamic-flexibility) | Active ROM through full joint path; preferred warm-up protocol |
 | [Mobility Positions](concepts/mobility-positions) | End-range joint positions for active control, capsule health, and positional breathing | 16 positions: foot/ankle, hip/groin, shoulder/thoracic, neural, kneeling |
+| [Isometric Holds](concepts/isometric-holds) | Static strength-endurance holds for BP management, core stability, and functional leg strength | 5 holds: hollow body, bear crawl, horse stance, wall push, wall sit |
 | [Risk Stratification](concepts/risk-stratification) | AACVPR low/moderate/high criteria — determines telemetry, GXT, and supervision needs |
 
 ### ⌂ Entities — the specific tools

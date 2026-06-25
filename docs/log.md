@@ -142,3 +142,20 @@
 - Updated: Related Concepts (cross-links to japanese-interval-walking, bar-hang, loaded-carries, plyometrics,
   worlds-greatest-stretch, asian-squat, dynamic-flexibility, static-stretching, valsalva-maneuver, aerobic-rx, CR phases)
 - Updated: index.md (mobility positions entry now shows 16 positions across categories)
+## 2026-06-25 create | Isometric Holds concept
+- docs/concepts/isometric-holds.md — Five isometric holds for cardiac rehabilitation:
+  - Hollow Body Hold: supine core activation; anterior chain; Phase II–IV
+  - Bear Crawl Hold (Bear Plank): full-body isometric; anti-rotation core, shoulder stability;
+    low-back friendly alternative to standard plank
+  - Horse Stance (Ma Bu): martial arts wide-stance isometric; quad/glute endurance;
+    hip capsule mobility; progressive depth
+  - Wall Push: lowest-demand upper body isometric; inclined angle controlled;
+    sternal-precaution compatible; Phase II–IV
+  - Wall Sit (Wall Squat): most studied isometric for BP reduction; quad endurance;
+    functional independence (chair rise, stairs); chronic BP-lowering adaptation
+  - Hemodynamic safety section: Valsalva avoidance, BP monitoring, contraindications,
+    chronic adaptation paradox (acute BP rise vs. chronic BP reduction)
+  - Phase II–IV integration table; sample isometric circuit (Phase III–IV)
+  - Sources: cardiac-recovery-deep-research, Low_Impact_Functional_Fitness_Over_50,
+    Resistance_Training_Guidelines_and_Hemodynamics
+- Updated: mkdocs.yml (nav), index.md (page count 29 → 30, concepts 11 → 12)
