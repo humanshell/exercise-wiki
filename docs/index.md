@@ -3,7 +3,7 @@
 > **A clinical knowledge base for cardiac rehabilitation and low-impact fitness.**
 > Designed for post-MI recovery, heart-healthy exercise programming, and sustainable strength for the over-50 male.
 
-> **Last updated: 2026-06-09 — 22 pages** across 11 concepts, 6 entities, 2 comparisons, 1 query, and source archive
+> **Last updated: 2026-06-25 — 29 pages** across 11 concepts, 13 entities, 2 comparisons, 1 query, and source archive
 
 ---
 
@@ -82,6 +82,13 @@ Phase I (Inpatient) ──→ Phase II (Early Outpatient) ──→ Phase III (I
 | [Tai Chi](entities/tai-chi) | Mind-body | Phase IV; strong fall prevention, zero Valsalva risk |
 | [Swimming](entities/swimming) | Aquatic | Hydrostatic venous return; Phase II water walking → IV laps |
 | [Calisthenics](entities/calisthenics) | Bodyweight RT | Leverage-progressed resistance; Phase II → IV |
+| [Bar Hang](entities/bar-hang) | Mobility + grip | Zero-impact grip endurance; longevity biomarker; Phase II → IV |
+| [Japanese Interval Walking](entities/japanese-interval-walking) | Aerobic interval | 3-min fast/3-min slow protocol; 15–20% VO₂max gains; Phase II → IV |
+| [Asian Squat](entities/asian-squat) | Mobility + isometric | Deep squat resting position; functional independence; Phase II → IV |
+| [World's Greatest Stretch](entities/worlds-greatest-stretch) | Dynamic flexibility | Full-body warm-up; hips, spine, shoulders; Phase II → IV |
+| [Zone 2 Cardio](entities/zone-2-cardio) | Aerobic endurance | Below lactate threshold; mitochondrial base; Phase II → IV |
+| [Plyometrics](entities/plyometrics) | Power training | Age-adapted jump training; fall prevention; Phase III → IV |
+| [Loaded Carries](entities/loaded-carries) | Resistance + aerobic | Concurrent grip, core, cardio; Phase III → IV |
 
 ### ⌂ Comparisons — side-by-side decisions
 

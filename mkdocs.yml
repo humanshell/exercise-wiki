@@ -49,6 +49,13 @@ nav:
       - Tai Chi: entities/tai-chi.md
       - Swimming: entities/swimming.md
       - Calisthenics: entities/calisthenics.md
+      - Bar Hang: entities/bar-hang.md
+      - Japanese Interval Walking: entities/japanese-interval-walking.md
+      - Asian Squat: entities/asian-squat.md
+      - World's Greatest Stretch: entities/worlds-greatest-stretch.md
+      - Zone 2 Cardio: entities/zone-2-cardio.md
+      - Plyometrics: entities/plyometrics.md
+      - Loaded Carries: entities/loaded-carries.md
   - Queries:
       - Beta-Blockers & Exercise Rx: queries/beta-blockers-exercise-prescription.md
   - Log: log.md

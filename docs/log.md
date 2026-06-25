@@ -108,3 +108,18 @@
 - Sources: Low_Impact_Functional_Fitness_Over_50, cardiac-recovery-deep-research
 - Updated: SCHEMA.md (mobility added to exercise-type tags), mkdocs.yml (nav), index.md
   (page count 21 → 22, concepts 10 → 11)
+## 2026-06-25 create | 7 new entity pages
+- docs/entities/bar-hang.md — Bar hang for grip strength, spinal decompression, shoulder mobility; longevity biomarker; Phase II–IV
+- docs/entities/japanese-interval-walking.md — Japanese interval walking (Nose & Masuki, 2007); 3-min fast/3-min slow protocol;
+  15–20% VO₂max improvements; Mayo Clinic Proceedings study; Phase II–IV
+- docs/entities/asian-squat.md — Deep squat resting/mobility position; functional independence predictor; hip, knee, ankle
+  flexibility; Phase II–IV
+- docs/entities/worlds-greatest-stretch.md — Dynamic full-body mobility movement; lunge + rotation + hamstring stretch;
+  warm-up protocol; Phase II–IV
+- docs/entities/zone-2-cardio.md — Zone 2 cardio; below lactate threshold aerobic endurance; contested "optimal" claim;
+  phased progression from Phase II foundation to hybrid programming; references 2025 Storoschuk review
+- docs/entities/plyometrics.md — Age-adapted plyometric training; stretch-shortening cycle; fall prevention via rapid force
+  production; Van Roie et al. 2020 RCT; Phase III–IV
+- docs/entities/loaded-carries.md — Farmer's walk, suitcase carry, overhead carry; concurrent grip/core/cardio training;
+  cardiovascular benefit matching aerobic exercise; Phase III–IV
+- Updated: mkdocs.yml (nav), index.md (page count 22 → 29, entities 6 → 13), SCHEMA.md (no changes needed)
