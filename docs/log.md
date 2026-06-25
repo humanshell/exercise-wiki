@@ -123,3 +123,22 @@
 - docs/entities/loaded-carries.md — Farmer's walk, suitcase carry, overhead carry; concurrent grip/core/cardio training;
   cardiovascular benefit matching aerobic exercise; Phase III–IV
 - Updated: mkdocs.yml (nav), index.md (page count 22 → 29, entities 6 → 13), SCHEMA.md (no changes needed)
+## 2026-06-25 update | Mobility Positions concept expanded with 9 new positions
+- docs/concepts/mobility-positions.md — Added 9 new mobility positions:
+  - Big Toe Extension (foot/ankle) — first MTP dorsiflexion for walking mechanics; 60–70° required for gait
+  - Sitting on Knees / Vajrasana (kneeling) — kneeling posture for knee flexion, postural control, breathwork;
+    Naragatti 2023 study on BP/HR reduction
+  - Nerve Glides (neural mobilization) — sciatic/median/ulnar nerve flossing; low-intensity enough for Phase I–II;
+    safety contraindication for acute radiculopathy
+  - Couch Stretch (hip flexor) — deepest hip flexor stretch; sitting posture reversal; patient-controlled intensity
+  - Cossack Squat (groin/adductors) — frontal plane mobility; fall risk reduction; adductor eccentric training
+  - Stick Overhead Rotations (shoulder CARs) — full circumduction mapping; thoracic extension;
+    shoulder capsular health
+  - Deep Squat — already present, cross-referenced with Asian Squat and Cossack Squat entries
+  - Hip Flexors — already present as half-kneeling hip flexor, expanded with couch stretch as progression
+  - 90/90 Position — already present as 90-90 hip rotation, referenced in shoulder CARs section
+- Updated: "Why Mobility Matters for Cardiac Recovery" table (added groin/adductors, ankle/big toe, peripheral nerves)
+- Updated: Integration table (Phase II–IV now include the new positions)
+- Updated: Related Concepts (cross-links to japanese-interval-walking, bar-hang, loaded-carries, plyometrics,
+  worlds-greatest-stretch, asian-squat, dynamic-flexibility, static-stretching, valsalva-maneuver, aerobic-rx, CR phases)
+- Updated: index.md (mobility positions entry now shows 16 positions across categories)

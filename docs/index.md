@@ -69,7 +69,7 @@ Phase I (Inpatient) ──→ Phase II (Early Outpatient) ──→ Phase III (I
 | [Yoga for Cardiac Recovery](concepts/yoga-for-cardiac-recovery) | 5 contraindicated posture categories, 5 heart-safe alternatives, breathwork warnings |
 | [Static Stretching](concepts/static-stretching) | 15–60s holds for cool-down; never combined with Valsalva |
 | [Dynamic Flexibility](concepts/dynamic-flexibility) | Active ROM through full joint path; preferred warm-up protocol |
-| [Mobility Positions](concepts/mobility-positions) | End-range joint positions for active control, capsule health, and positional breathing |
+| [Mobility Positions](concepts/mobility-positions) | End-range joint positions for active control, capsule health, and positional breathing | 16 positions: foot/ankle, hip/groin, shoulder/thoracic, neural, kneeling |
 | [Risk Stratification](concepts/risk-stratification) | AACVPR low/moderate/high criteria — determines telemetry, GXT, and supervision needs |
 
 ### ⌂ Entities — the specific tools
